@@ -31,7 +31,7 @@ Each weekly log **must** follow this exact structure for automated validation to
 ```markdown
 # Week N
 
-**Dates:** YYYY-MM-DD to YYYY-MM-DD
+**Dates:** MM-DD to MM-DD
 
 ## Goals
 ...
@@ -48,7 +48,7 @@ The following fields are required and must appear exactly as written:
 | Field | Example |
 |---|---|
 | H1 title | `# Week 3` |
-| Dates line | `**Dates:** 2025-06-16 to 2025-06-22` |
+| Dates line | `**Dates:** 06-16 to 06-22` |
 | Section 1 | `## Goals` |
 | Section 2 | `## Approach and Implementation` |
 | Section 3 | `## Results` |

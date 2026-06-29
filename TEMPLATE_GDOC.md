@@ -13,7 +13,7 @@ IMPORTANT: Do NOT use Google Docs heading styles (Heading 1, Heading 2, etc.)
 and do NOT use the Bold button. Type the # and ** characters literally — the
 automated validator depends on them appearing exactly as written.
 
-Replace "YYYY-MM-DD" dates and fill in each section every week.
+Replace "MM-DD" dates with the month and day (e.g., 06-16) and fill in each section every week.
 The Notes section is optional; remove it if you don't need it.
 -->
 
@@ -21,7 +21,7 @@ The Notes section is optional; remove it if you don't need it.
 
 # Week 1
 
-**Dates:** YYYY-MM-DD to YYYY-MM-DD
+**Dates:** MM-DD to MM-DD
 
 ## Goals
 
@@ -43,7 +43,7 @@ The Notes section is optional; remove it if you don't need it.
 
 # Week 2
 
-**Dates:** YYYY-MM-DD to YYYY-MM-DD
+**Dates:** MM-DD to MM-DD
 
 ## Goals
 
@@ -65,7 +65,7 @@ The Notes section is optional; remove it if you don't need it.
 
 # Week 3
 
-**Dates:** YYYY-MM-DD to YYYY-MM-DD
+**Dates:** MM-DD to MM-DD
 
 ## Goals
 
@@ -87,7 +87,7 @@ The Notes section is optional; remove it if you don't need it.
 
 # Week 4
 
-**Dates:** YYYY-MM-DD to YYYY-MM-DD
+**Dates:** MM-DD to MM-DD
 
 ## Goals
 
@@ -109,7 +109,7 @@ The Notes section is optional; remove it if you don't need it.
 
 # Week 5
 
-**Dates:** YYYY-MM-DD to YYYY-MM-DD
+**Dates:** MM-DD to MM-DD
 
 ## Goals
 
@@ -131,7 +131,7 @@ The Notes section is optional; remove it if you don't need it.
 
 # Week 6
 
-**Dates:** YYYY-MM-DD to YYYY-MM-DD
+**Dates:** MM-DD to MM-DD
 
 ## Goals
 
@@ -153,7 +153,7 @@ The Notes section is optional; remove it if you don't need it.
 
 # Week 7
 
-**Dates:** YYYY-MM-DD to YYYY-MM-DD
+**Dates:** MM-DD to MM-DD
 
 ## Goals
 
@@ -175,7 +175,7 @@ The Notes section is optional; remove it if you don't need it.
 
 # Week 8
 
-**Dates:** YYYY-MM-DD to YYYY-MM-DD
+**Dates:** MM-DD to MM-DD
 
 ## Goals
 
@@ -197,7 +197,7 @@ The Notes section is optional; remove it if you don't need it.
 
 # Week 9
 
-**Dates:** YYYY-MM-DD to YYYY-MM-DD
+**Dates:** MM-DD to MM-DD
 
 ## Goals
 
@@ -219,7 +219,7 @@ The Notes section is optional; remove it if you don't need it.
 
 # Week 10
 
-**Dates:** YYYY-MM-DD to YYYY-MM-DD
+**Dates:** MM-DD to MM-DD
 
 ## Goals
 

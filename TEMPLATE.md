@@ -10,7 +10,7 @@ INSTRUCTIONS
 - Delete these instructions before submitting.
 -->
 
-**Dates:** YYYY-MM-DD to YYYY-MM-DD
+**Dates:** MM-DD to MM-DD
 
 ## Goals
 

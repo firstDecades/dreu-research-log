@@ -23,9 +23,9 @@ REQUIRED_SECTIONS = [
 
 WEEK_TITLE_RE  = re.compile(r'^#\s+Week\s+\d+\s*$')
 DATES_LINE_RE  = re.compile(
-    r'^\*\*Dates:\*\*\s+(\d{4}-\d{2}-\d{2})\s+to\s+(\d{4}-\d{2}-\d{2})\s*$'
+    r'^\*\*Dates:\*\*\s+(\d{2}-\d{2})\s+to\s+(\d{2}-\d{2})\s*$'
 )
-PLACEHOLDER_RE = re.compile(r'YYYY-MM-DD')
+PLACEHOLDER_RE = re.compile(r'MM-DD')
 
 
 # ── Core validator ────────────────────────────────────────────────────────────
@@ -61,7 +61,7 @@ def validate_log(content: str, filename: str = "") -> tuple[bool, list[str]]:
             errors.append("Dates field still contains placeholder — fill in the actual dates")
         elif not DATES_LINE_RE.match(dl):
             errors.append(
-                f"Dates field format invalid — expected '**Dates:** YYYY-MM-DD to YYYY-MM-DD', found: '{dl}'"
+                f"Dates field format invalid — expected '**Dates:** MM-DD to MM-DD', found: '{dl}'"
             )
 
     # 3. Parse H2 sections and their content
